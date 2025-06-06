@@ -16,7 +16,7 @@ Welcome to **Awesome-Hacking**, your ultimate resource hub for all things hackin
   <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source Badge"/>
   <img src="https://img.shields.io/github/contributors/Hunterdii/Awesome-Hacking" alt="GitHub Contributors"/>
   <img src="https://img.shields.io/github/last-commit/Hunterdii/Awesome-Hacking?color=brightgreen" alt="Last Commit"/>
-  <img src="https://img.shields.io/badge/Owner-%40Hunterdii-<COLOR>.svg" alt="Owner Badge"/>
+
 </p>
 
 # GitHub Stats:
